@@ -16,11 +16,9 @@ const Home: NextPage = () => {
             <span className="underline font-semibold">Billy Jones</span><br />
             <span className="text-orange-400">Software Developer</span>
           </h1>
-          <Link className="block m-2 hover:text-slate-400" href="https://github.com/Hellcat404" target="_blank">GitHub</Link>
-          <Link className="block m-2 hover:text-slate-400" href="https://www.linkedin.com/in/billyjones132/" target="_blank">LinkedIn</Link>
         </div>
         <div className="absolute bottom-20">
-        <Link className="block text-3xl text-orange-400 underline hover:no-underline hover:text-orange-600" href="about">About Me ➡</Link>
+        <Link className="block text-3xl text-orange-400 underline hover:no-underline hover:text-orange-600" href="https://github.com/Hellcat404">About Me ➡</Link>
         </div>
       </main>
     </>
