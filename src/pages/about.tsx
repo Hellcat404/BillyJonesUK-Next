@@ -18,7 +18,7 @@ const Home: NextPage = () => {
           </h1>
           <p className="text-sm lg:text-lg w-2/3 m-auto">
             I&apos;m an ambitious software developer who mainly focuses on <span className="text-orange-400">C# .NET</span>.<br/>
-            I have also been working a lot on website development, namely this site using <Link className="text-orange-400 underline hover:text-orange-600 hover:no-underline" href="https://create.t3.gg/" target="_blank">Create T3-App</Link> and another project <Link className="text-orange-400 underline hover:text-orange-600 hover:no-underline" href="https://github.com/Hellcat404/EMotional">&ldquo;EMotional&rdquo;</Link>.<br/>
+            I have also been working a lot on website development, namely this site using <Link className="text-orange-400 underline hover:text-orange-600 hover:no-underline" href="https://create.t3.gg/" target="_blank">Create T3-App</Link> and another project <Link className="text-orange-400 underline hover:text-orange-600 hover:no-underline" href="https://github.com/Hellcat404/EMotional" target="_blank">&ldquo;EMotional&rdquo;</Link>.<br/>
             My skills include <span className="text-orange-400">C# .Net, React/NextJS, Java, C++, Lua, Python</span> and I have a willingness and drive to learn more if the opportunity presents itself.
           </p>
         </div>
